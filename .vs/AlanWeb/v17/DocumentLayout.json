@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|c:\\users\\user\\desktop\\coremvc\\alanweb\\alanweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|solutionrelative:alanweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|c:\\users\\user\\desktop\\coremvc\\alanweb\\alanweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|solutionrelative:alanweb\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|c:\\users\\user\\desktop\\coremvc\\alanweb\\alanweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|solutionrelative:alanweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|c:\\users\\user\\desktop\\coremvc\\alanweb\\alanweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E7EC6E4-B1CE-46BD-8C6E-47B4A7678289}|AlanWeb\\AlanWeb.csproj|solutionrelative:alanweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AlanWeb\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Models\\Category.cs",
+              "RelativeToolTip": "AlanWeb\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwBEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:21:31.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "AlanWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "AlanWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T08:09:10.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AlanWeb\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AlanWeb\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T04:04:13.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AlanWeb\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\coreMVC\\AlanWeb\\AlanWeb\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AlanWeb\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwD8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T03:55:19.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 18,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
