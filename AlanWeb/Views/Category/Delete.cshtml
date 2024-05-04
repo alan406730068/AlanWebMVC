@@ -1,0 +1,34 @@
+﻿@model Category
+
+<form method="post">
+    <input asp-for="Id" hidden />
+    <div class="border p-3 mt-4">
+        <div class="row pb-2">
+            <h2 class="text-primary">刪除種類</h2>
+            <hr />
+        </div>
+        @*         <div asp-validation-summary="ModelOnly"></div> *@
+        <div class="mb-3 row p-1">
+            @* model連接表單元素(form) tagHelper *@
+            <label asp-for="Name" class="p-0"></label>
+            @* asp-for  若有值則自動顯示 *@
+            <input asp-for="Name" disabled class="form-control" />
+        </div>
+        <div class="mb-3 row p-1">
+            <label asp-for="DisplayOrder" class="p-0"></label>
+            <input asp-for="DisplayOrder" disabled class="form-control" />
+        </div>
+
+        <div class="row">
+            @* 當大於medium的大小，大小變為3 *@
+            <div class="col-6 col-md-3">
+                <button type="submit" class="btn btn-danger form-control">確定</button>
+            </div>
+            <div class="col-6 col-md-3">
+                <a asp-controller="Category" asp-action="Index" class="btn btn-outline-secondary form-control">
+                    返回表單
+                </a>
+            </div>
+        </div>
+    </div>
+</form>

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlanWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c7d10c0dd7e6f86a27d78f8b5db493e3d20b46")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlanWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlanWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
